@@ -1,0 +1,7 @@
+from flask import Blueprint
+
+api_blueprint = Blueprint('api', __name__, url_prefix='/api')
+
+from . import auth_routes
+from . import health_routes
+from . import startup_routes
