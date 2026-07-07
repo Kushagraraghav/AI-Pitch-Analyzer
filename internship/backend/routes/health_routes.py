@@ -5,6 +5,8 @@ health_blueprint = Blueprint('health', __name__, url_prefix='')
 
 
 @health_blueprint.route('/health', methods=['GET'])
-@jwt_required_with_role('Founder', 'Investor')
 def health_check():
-    return jsonify({'status': 'ok', 'message': 'API is running'}), 200
+    return jsonify({
+        "status": "ok",
+        "message": "API is running"
+    }), 200
