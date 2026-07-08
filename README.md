@@ -1,6 +1,6 @@
 # 🚀 AI-Augmented Startup Pitch Analyzer
 
-An intelligent full-stack web application that leverages AI to analyze startup pitches, providing actionable insights for both **Founders** and **Investors**. Founders can submit their pitch decks and receive in-depth AI-powered evaluations, while Investors can browse startups and explore detailed analysis reports.
+An intelligent full-stack web application that leverages AI to analyze startup pitches, providing actionable insights for both **Founders** and **Investors**. Founders can submit their pitch decks and receive in-depth AI-powered evaluation, while Investors can browse startups and explore detailed analysis reports.
 
 🌐 **Live Demo**: [ai-pitch-analyzer-sooty.vercel.app](https://ai-pitch-analyzer-sooty.vercel.app/)
 
